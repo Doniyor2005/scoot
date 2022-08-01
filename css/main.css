@@ -402,6 +402,11 @@ img {
   text-decoration: none;
 }
 
+.navbar {
+  width: 1440px;
+  background-color: blue;
+}
+
 .main {
   -webkit-box-flex: 1;
       -ms-flex-positive: 1;
